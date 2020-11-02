@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.Domian.deps.json
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.Domian.dll
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Domian.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Domian.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Domian.AssemblyInfo.cs

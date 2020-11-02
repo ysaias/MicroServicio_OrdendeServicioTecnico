@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.AssemblyInfo.cs
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.deps.json
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.runtimeconfig.json
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.runtimeconfig.dev.json
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.genruntimeconfig.cache
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.csprojAssemblyReference.cache

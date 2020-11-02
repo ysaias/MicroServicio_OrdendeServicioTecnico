@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Servicio.Domain.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Servicio.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Servicio.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.Servicio.Domain.deps.json
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.Servicio.Domain.dll
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.Servicio.Domain.pdb
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Servicio.Domain.csproj.CopyComplete
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Servicio.Domain.dll
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Servicio.Domain.pdb
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.Servicio.Domain.runtimeconfig.json
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\bin\Debug\netcoreapp3.1\Tienda.Servicio.Domain.runtimeconfig.dev.json
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Servicio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TiendaParacialUno\Tienda.Domian\obj\Debug\netcoreapp3.1\Tienda.Servicio.Domain.genruntimeconfig.cache
