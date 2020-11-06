@@ -35,6 +35,9 @@ namespace Servicio.WebApp.Controllers
                 Cita cita = await _ordenServicioRepository.GetCitaById(guidCita);
                 FormularioTrabajo obj = new FormularioTrabajo(formulario.Informe, formulario.MedidaAtencion, cita);
 
+                OrdenServicio orden = await _ordenServicioRepository.GetOrdenServicioBiIdCita(cita.Id);
+                orden.FinalizarServicio();
+
                 await _formularioRepository.Insert(obj);
                 await _unitOfWork.Commit();
 

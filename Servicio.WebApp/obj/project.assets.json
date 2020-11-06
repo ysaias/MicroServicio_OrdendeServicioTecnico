@@ -5831,11 +5831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Servicio.WebApp\\Servicio.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Servicio.WebApp\\Servicio.WebApp.csproj",
       "projectName": "Servicio.WebApp",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Servicio.WebApp\\Servicio.WebApp.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Servicio.WebApp\\Servicio.WebApp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Servicio.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Servicio.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5854,8 +5854,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.Servicio.Infraesctructura\\Tienda.Servicio.Infraesctructura.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.Servicio.Infraesctructura\\Tienda.Servicio.Infraesctructura.csproj"
+            "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.Servicio.Infraesctructura\\Tienda.Servicio.Infraesctructura.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.Servicio.Infraesctructura\\Tienda.Servicio.Infraesctructura.csproj"
             }
           }
         }

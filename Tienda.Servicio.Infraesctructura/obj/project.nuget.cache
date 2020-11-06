@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NjGB3CqftZaIHP0X4Db7nq+Ytgf0W7ya3AYrsvQUlhPdKArLuoGXF9WQrFLYA+wTNqLK6XZvp3t5akoMGXjcjQ==",
+  "dgSpecHash": "nOUBRSgXJJC9P3XkI4RVlQCC7WVQGYuQA6n9nNYaWyXRLmcCnPODuQ4WgyndAe8xkrqAYid5s2Djz0FLILXVCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.Servicio.Infraesctructura\\Tienda.Servicio.Infraesctructura.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.Servicio.Infraesctructura\\Tienda.Servicio.Infraesctructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.0.2\\autofac.extensions.dependencyinjection.7.0.2.nupkg.sha512",

@@ -25,5 +25,7 @@ namespace Tienda.Servicio.Domain.Persistence.Repository
         List<Cita> GetListaCitasByOrdenId(Guid ordenId);
         Task<Cliente> GetClienteById(Guid clienteId);
 
+        Task<OrdenServicio> GetOrdenServicioBiIdCita(Guid citaId);
+
     }
 }

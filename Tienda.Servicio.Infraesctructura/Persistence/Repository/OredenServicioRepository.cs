@@ -37,7 +37,14 @@ namespace Tienda.Servicio.Infraesctructura.Persistence.Repository
             return obj;
         }
 
-       
+
+        public async Task<OrdenServicio> GetOrdenServicioBiIdCita(Guid citaId)
+        {
+
+            Cita obj = await _context.Citas.Include(x => x.OrdenServicio).Where(o => o.Id == citaId).FirstOrDefaultAsync();
+            OrdenServicio objOrden = await _context.OrdenServicios.Where(o => o.Id == obj.OrdenServicio.Id).FirstOrDefaultAsync();
+            return objOrden;
+        }
 
 
 

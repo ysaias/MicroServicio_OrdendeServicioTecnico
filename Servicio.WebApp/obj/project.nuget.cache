@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rzIBLtEDsxpVp0MInpPgFXvD1Hk+uTcIeovGLiWTaJ6qH7qyBowHKQq78EiaoCPnNDuHBhi+uekjfJ4WClf2mA==",
+  "dgSpecHash": "c0qqJO+7s4SCkQmwQMGOS2eBJTUAbvfc4unfh2laqMSnVtHsc3YlwzUY8FogZAdscRhQeh68Tqdd7+S3T/PKAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Servicio.WebApp\\Servicio.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Servicio.WebApp\\Servicio.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.0.2\\autofac.extensions.dependencyinjection.7.0.2.nupkg.sha512",

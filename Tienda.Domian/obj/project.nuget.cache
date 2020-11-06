@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3uX7ZLhszfOBtwBMa83+reh4fptN3rNv/6ZWUwweFrLbs3Zc96qnoVbQde3Xr3ex/ZTkSEIwwXtEgWZuHK4+2g==",
+  "dgSpecHash": "LMqeydAgvnJ8zipo6ny0Uce7idfXi1scx/Z8WmWE51FIOcPYSbtI3Kq++AzYWXyTWmt70Cfmo59YAAQQHdcgLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.Domian\\Tienda.Servicio.Domain.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.Domian\\Tienda.Servicio.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

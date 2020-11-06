@@ -826,11 +826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.Domian\\Tienda.Servicio.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.Domian\\Tienda.Servicio.Domain.csproj",
       "projectName": "Tienda.Servicio.Domain",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.Domian\\Tienda.Servicio.Domain.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.Domian\\Tienda.Servicio.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.Domian\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.Domian\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -849,8 +849,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\TiendaParacialUno\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj"
+            "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\folder\\MicroServicio_OrdendeServicioTecnico\\Tienda.SharedKernel\\Tienda.SharedKernel.csproj"
             }
           }
         }
